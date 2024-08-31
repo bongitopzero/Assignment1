@@ -1,4 +1,4 @@
-Binary Adder
+Binary Adder Overview
 This provides an analysis and evaluation of the functionality of a 2-bit binary adder that generates a 3-bit output including a carry-out bit using basic digital logic gates. 
 The task requires us to construct a digital circuit capable of adding two 2-bit binary number and generating a 3-bit output, the design utilizes two half adders and OR gates.
 The process, the first half adder, which sums the LSB (A0 AND B0), and produces both a sum (S0) and a carry (C0). The second half adder then steps in to handle the more complex task of adding the MSB (A1 AND B1) 
@@ -9,4 +9,13 @@ an output 101, confirming its effectiveness in handling the addition.
 
 
 YOUTUBE: https://www.youtube.com/watch?v=mex91usG8Ak
+
+PROJECT BY:
+  Khauhelo Makara 202100022
+  Tseko Mokhefa   202100031
+  Nkuebe Moshoeshoe 202100208
+  Relebohile Letsae 202201998
+  Realeboha Letsae  202201997
+  Bongiwe Topo  202202068
+  Nkatana Motloli 202200572
 
